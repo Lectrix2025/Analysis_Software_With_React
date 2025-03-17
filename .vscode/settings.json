@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Analysis_BAckend_Python/analysis"
+    ]
+}
